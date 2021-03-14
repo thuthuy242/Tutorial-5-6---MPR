@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Friends</string>
+    <string name="guide">Click item for actions, (+) for adding another friend.</string>
+    <string name="newFriend">New Friend</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+</resources>
